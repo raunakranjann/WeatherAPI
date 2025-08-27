@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.weather</groupId>
-	<artifactId>api</artifactId>
+	<artifactId>WeatherAPI</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>api</name>
 	<description>Weather API</description>
